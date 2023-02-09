@@ -15,6 +15,7 @@ body{
 
 .skill-boxes {
     display: flex;
+    flex: 1;
 }
 
 img{
