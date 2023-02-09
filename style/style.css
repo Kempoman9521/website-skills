@@ -1,7 +1,6 @@
 body{
     height: 100vh;
     display: flex;
-    
 }
 
 * {
@@ -13,6 +12,8 @@ body{
     display: flex;
     flex-direction: column;
 }
+
+
 
 img{
     width: 100px;
