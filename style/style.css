@@ -1,7 +1,12 @@
 body{
     height: 100vh;
     display: flex;
-    flex-direction: column;
+    
+}
+
+* {
+    border-style: solid;
+    padding: 10px;
 }
 
 .left-box, .right-box {
