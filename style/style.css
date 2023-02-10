@@ -5,10 +5,9 @@ body{
     box-sizing: border-box;
 }
 
-/* * {
-    border-style: solid;
-    padding: 10px;
-} */
+* {
+    margin: 0;
+}
 
 .left-box, .right-box {
     display: flex;
