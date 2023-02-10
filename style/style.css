@@ -18,15 +18,17 @@ body{
     background-color: aqua;
     padding-left: 3em;
     padding-right: 3em;
+    flex: 1;
 }
 
 .right-box {
     background-color:rgb(212, 208, 208);
+    flex: 2;
 }
 
 .skill-boxes {
     display: flex;
-    flex: 1;
+    
 }
 
 img{
