@@ -13,6 +13,14 @@ body{
     flex-direction: column;
 }
 
+.left-box {
+    background-color: aqua;
+}
+
+.right-box {
+    background-color:lightgray;
+}
+
 .skill-boxes {
     display: flex;
     flex: 1;
