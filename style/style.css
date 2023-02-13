@@ -34,8 +34,10 @@ body{
 .skill-boxes {
     display: flex;
     text-align: center;
+}
 
-    
+.skill-box-left, .skill-box-right {
+    border-style: solid;
 }
 
 img{
