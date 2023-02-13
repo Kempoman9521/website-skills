@@ -38,6 +38,7 @@ body{
 
 .skill-box-left, .skill-box-right {
     border-style: solid;
+    border-radius: 10px;
 }
 
 img{
