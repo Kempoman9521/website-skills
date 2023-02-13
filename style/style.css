@@ -33,6 +33,8 @@ body{
 
 .skill-boxes {
     display: flex;
+    text-align: center;
+
     
 }
 
